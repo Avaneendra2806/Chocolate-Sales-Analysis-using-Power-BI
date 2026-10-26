@@ -179,11 +179,6 @@ The dashboard transforms sales and shipment data into actionable business insigh
 | Sales Target Analysis | Individual sales amounts are compared against a target of 2,000,000 | Identify target achievement and areas requiring sales support. |
 
 
-### Dashboard Overview
-
-![Chocolate Sales Dashboard](images/chocolate-sales-dashboard.png)
-
-
 ## 🏁 Conclusion
 
 The **Chocolate Sales Analysis Dashboard** demonstrates how Microsoft Power BI can transform sales and shipment data into meaningful business insights.
