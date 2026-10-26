@@ -48,8 +48,8 @@ The dashboard transforms sales and shipment data into actionable business insigh
 
 #### Key Insights
 
-- Generated approximately **$44.69 million in total sales**.
-- Recorded approximately **3.78 million boxes** across **7,905 shipments**.
+- Generated approximately **$45 million in total sales**.
+- Recorded approximately **4 million boxes** across **8K shipments**.
 - The UK and India recorded the highest shipment counts among the six geographical markets displayed.
 - Delish recorded the highest total box volume among the four sales teams, with approximately **1.147 million boxes**.
 - Shipment volumes fluctuated over time, highlighting the importance of monitoring monthly logistics and sales activity.
