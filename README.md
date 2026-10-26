@@ -181,7 +181,7 @@ The dashboard transforms sales and shipment data into actionable business insigh
 
 ### Dashboard Overview
 
-![Chocolate Sales Dashboard Overview](Screenshots/Dashboard%20Overview.png)
+![Chocolate Sales Dashboard](images/chocolate-sales-dashboard.png)
 
 
 ## 🏁 Conclusion
