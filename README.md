@@ -195,7 +195,3 @@ By combining KPI reporting, product analysis, shipment trends, geographical comp
 - 📊 Power BI
 - 📈 Statistical Analysis
 - ☁️ Cloud Analytics — Google BigQuery, Looker
-
-**Tools Used:** Microsoft Power BI | Power Query | DAX
-
-**Project Category:** Data Analytics | Business Intelligence | Sales Analysis
