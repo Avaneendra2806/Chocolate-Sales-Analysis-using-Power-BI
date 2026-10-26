@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-The interactive **Chocolate Sales Analysis Dashboard** is developed using Power BI to analyze chocolate sales performance, product performance, shipment trends, geographical sales distribution, sales team performance, and sales target achievement.
+The **Chocolate Sales Analysis Dashboard** is developed using Power BI to analyze chocolate sales performance, product performance, shipment trends, geographical sales distribution, sales team performance, and sales target achievement.
 
 The dashboard transforms sales and shipment data into actionable business insights through interactive visualizations, KPI cards, tables, and trend analysis. It helps stakeholders understand business performance, identify high-performing products and regions, evaluate sales personnel, and make data-driven decisions.
 
